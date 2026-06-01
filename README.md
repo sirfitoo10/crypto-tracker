@@ -53,6 +53,26 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 If you find this project useful, consider giving it a star ⭐
 
+---
+
+# 💻 Basic Project Files (so your repo looks real)
+
+## 📁 `index.html`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crypto Tracker</title>
+</head>
+<body>
+  <h1>Crypto Prices</h1>
+  <ul id="crypto-list"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
 📜 License
 
 This project is open-source and available under the MIT License.
