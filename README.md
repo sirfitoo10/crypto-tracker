@@ -27,7 +27,6 @@ A simple and modern cryptocurrency tracker that displays real-time prices using 
 
 ## ⚙️ Installation
 
-Clone the repository:
 
 ```bash
 git clone https://github.com/sirfitoo10/crypto-tracker.git
