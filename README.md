@@ -54,7 +54,7 @@ If you find this project useful, consider giving it a star ⭐
 
 ---
 
-# 💻 Basic Project Files (so your repo looks real)
+# 💻 Basic Project Files 
 
 ## 📁 `index.html`
 ```html
