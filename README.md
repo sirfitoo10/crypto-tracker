@@ -32,3 +32,29 @@ Clone the repository:
 ```bash
 git clone https://github.com/sirfitoo10/crypto-tracker.git
 cd crypto-tracker
+🚀 Usage
+
+Simply open index.html in your browser.
+
+🌐 API Reference
+
+CoinGecko API: https://www.coingecko.com/en/api
+
+📌 Roadmap
+Add search functionality 🔍
+Implement dark mode 🌙
+Integrate price charts 📊
+Add portfolio tracking 💼
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+⭐ Support
+
+If you find this project useful, consider giving it a star ⭐
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+Made with ❤️ by sirfitoo10
